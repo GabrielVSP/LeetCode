@@ -1,47 +1,27 @@
-/*
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
  */
 
-const l1 = [2, 4, 3]
-const l2 = [5, 6, 4]
+const twoSum = (nums, target) => {
 
-var addTwoNumbers = function(l1, l2) {
-    
-    let sum = reverse(l1) + reverse(l2)
-    let sumStr = String(reverse(String(sum)))
+    for(let i = 0; i < nums.length; i++) {29011998
 
-    let sumArray = []
+        for(let c = 0; c < nums.length; c++) {
 
-    for(let i = 0; i < sumStr.length; i++) {
+            if(i != c) {
 
-        sumArray.push(Number(sumStr[i]))
+                if(nums[i] + nums[c] == target) {
 
-    }
+                    return [i, c]
+        
+                }
 
-    console.log(typeof(sumArray))
-
-    return sumArray
-
-};
-
-function reverse(list) {
-
-    let newNum = String(list[list.length - 1])
-
-    for(let i = 0; i < list.length; i++) {
-
-        if (i > 0) {
-
-            newNum += String(list[(list.length - 1) - i])
+            }
 
         }
 
     }
 
-    return Number(newNum)
-
-}
-
-addTwoNumbers(l1, l2)
+};
