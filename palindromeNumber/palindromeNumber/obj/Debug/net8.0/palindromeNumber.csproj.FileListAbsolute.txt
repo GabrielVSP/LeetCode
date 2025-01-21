@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.sourcelink.json
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\bin\Debug\net8.0\palindromeNumber.exe
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\bin\Debug\net8.0\palindromeNumber.deps.json
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\bin\Debug\net8.0\palindromeNumber.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\bin\Debug\net8.0\palindromeNumber.dll
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\bin\Debug\net8.0\palindromeNumber.pdb
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.dll
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\refint\palindromeNumber.dll
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.pdb
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\palindromeNumber.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\LeetCode\palindromeNumber\palindromeNumber\obj\Debug\net8.0\ref\palindromeNumber.dll
